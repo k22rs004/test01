@@ -10,3 +10,8 @@
 1. Japan
 2. United States of America
 3. Korea
+
+## スポーツ
+- スキー
+- スケート
+- ボブスレー
