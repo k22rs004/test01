@@ -1,12 +1,12 @@
 # test01
-## これは<\/h2>
+## 果物
 - リンゴ
 - オレンジ
 - バナナ
 
 本リポジトリはテスト用のリポジトリである。
 
-## section2
+## 国名
 1. Japan
 2. United States of America
 3. Korea
